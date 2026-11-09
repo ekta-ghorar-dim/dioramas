@@ -6,7 +6,7 @@ const examples = fs.readdirSync('examples').filter(d => fs.existsSync(`examples/
 export default defineConfig({
   appType: 'mpa',
   // HMR off: many examples are edited in parallel; each save would otherwise reload every open tab.
-  server: { host: '127.0.0.1', port: 5190, strictPort: true, hmr: false },
+  server: { host: '127.0.0.1', port: 5190, strictPort: true, hmr: false, allowedHosts: ['.ts.net'] },
   preview: { host: '127.0.0.1', port: 5191 },
   build: {
     target: 'es2022',
