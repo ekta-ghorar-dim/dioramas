@@ -70,3 +70,6 @@
 
 ## v18: "Kōen" (concept C21, Dioramas world port)
 - "One tournament, four seasons": a bonsai through registration, group stage, final and off-season; events on record with identity previews; tools as the craft; a season brief. Washi + maple red, Cormorant Garamond.
+
+## v19: "Monolith" (concept C16, Dioramas world port)
+- "From load-in to the last game": drag the sun through one show day (phases relabelled); real AOBS images on hover; the PCC grand final hour by hour with the section relabelled as broadcast layers. Concrete + golden hour, Inter Tight/Plex.

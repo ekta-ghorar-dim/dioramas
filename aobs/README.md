@@ -17,7 +17,8 @@ The official website for **AOBS**, an esports broadcast production company, expl
 | v15 | Abyss: dive through five broadcast layers |
 | v16 | Low Frequency: scratchable turntable as replay |
 | v17 | Geode: crack open a raw stream |
-| v18 | Kōen: one tournament, four seasons (in progress) |
+| v18 | Kōen: one tournament, four seasons |
+| v19 | Monolith: drag the sun through one show day |
 
 - `docs/`: content inventory, missing data, concepts list, changelog, reviews and Lighthouse results. Screenshots are in `docs/reviews/screens/`.
 - `assets/`: source logos and AOBS portfolio media.
