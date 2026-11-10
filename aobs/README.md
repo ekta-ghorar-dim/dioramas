@@ -1,4 +1,6 @@
-# AOBS website explorations
+# AOBS website explorations · v01–v12
+
+This branch holds versions v01 to v12 (plus BEST, a copy of v08). The full archive, including v13 onward, is on the `aobs-website` branch.
 
 The official website for **AOBS**, an esports broadcast production company, explored as a series of complete, standalone Next.js sites. Each version in `versions/` is a full runnable site (`npm install && npm run dev`). Every version from v10 on ports one of the Dioramas worlds in this repository (`examples/`) into the AOBS site, rewritten around AOBS's real broadcast work.
 
@@ -12,13 +14,6 @@ The official website for **AOBS**, an esports broadcast production company, expl
 | v10 | The Keeper: lighthouse storm, Backup Streamer |
 | v11 | Gambit: every draft is a game of chess |
 | v12 | Movement: a watch movement exploded into broadcast layers |
-| v13 | Power Up: hold to go live |
-| v14 | Drifting Isles: Online / Bangladesh / Pakistan / Nepal |
-| v15 | Abyss: dive through five broadcast layers |
-| v16 | Low Frequency: scratchable turntable as replay |
-| v17 | Geode: crack open a raw stream |
-| v18 | Kōen: one tournament, four seasons |
-| v19 | Monolith: drag the sun through one show day |
 
 - `docs/`: content inventory, missing data, concepts list, changelog, reviews and Lighthouse results. Screenshots are in `docs/reviews/screens/`.
 - `assets/`: source logos and AOBS portfolio media.
