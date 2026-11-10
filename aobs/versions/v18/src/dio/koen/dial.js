@@ -93,7 +93,7 @@ export class Dial {
       this._last = key;
       this.kanji.textContent = kj;
       this.labels.forEach((l, i) => l.classList.toggle('on', i === idx));
-      if (this.cap) this.cap.innerHTML = `<b>${sk}</b> <span>${ro} — ${mean}</span><em>${en} · the tree's ${ordinal(age)} ${en.toLowerCase()}</em>`;
+      if (this.cap) this.cap.innerHTML = `<b>${sk}</b> <span>${ro} — ${mean}</span><em>${en} · season ${ordinal(Math.max(1, age - 179))}</em>`;
       this.el.setAttribute('aria-label', `Season dial: ${en}, ${ro} (${mean}). Use arrow keys to turn the year.`);
     }
   }

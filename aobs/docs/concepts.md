@@ -21,7 +21,7 @@ Status: ✅ built · ▶ building · ○ queued
 | C07 | **Low Frequency** | Low Frequency (turntable) | Scratch the record = scrub a replay; the caster mix, crowd and game audio as faders → audio and replay positions | Violet night, vinyl black · Syne | ✅ v16 |
 | C08 | **Movement** | Aurel Horologie (watch apart) | Drag to explode a precision movement; each part is a broadcast layer (game feed → observers → switcher → graphics → cloud → out) → end-to-end engineering | Champagne, black enamel · Fraunces | ✅ v12 |
 | C09 | **Abyss** | Abyssal (11 km dive) | Scroll is a dive through the signal chain, deeper layer by layer; steer a floodlight onto each component → what's under the stream | Teal-black, bioluminescent cyan · Space Mono only for depth | ✅ v15 |
-| C10 | **Geode** | Lithos (crack the stone) | Hold to crack a grey stone; inside, crystals carry real AOBS frames → the raw stream vs the produced broadcast | Violet crystal, slate · Unbounded | ○ |
+| C10 | **Geode** | Lithos (crack the stone) | Hold to crack a grey stone; inside, crystals carry real AOBS frames → the raw stream vs the produced broadcast | Violet crystal, slate · Unbounded | ✅ v17 |
 | C11 | **Ember** | Hammer & Ember (heat a blade) | Scroll heats the steel; click to strike sparks; each strike stamps a tournament mark → forged for every event | Forge black, molten orange · Oswald + Cardo | ○ |
 | C12 | **Drifting Isles** | Atlas (fly between islands) | Each island is a country/event (Pakistan, Nepal, Bangladesh); fly between them → where AOBS has broadcast | Sky blue, paper map · Fraunces + Work Sans | ✅ v14 |
 | C13 | **Dawn Run** | Artemis (scroll to walk) | Scroll walks a rigged figure across a stage from tunnel to trophy → a tournament from registration to final | Moon grey, white · Neue Haas-like | ○ |
@@ -32,7 +32,7 @@ Status: ✅ built · ▶ building · ○ queued
 | C18 | **Nightshift** | Café racer revving in rain | Hold to rev; the rev meter is the stream bitrate; neon rain → performance under bad conditions | Rain black, neon pink · Druk-like condensed | ○ |
 | C19 | **Nocturne** | Pour a perfume | Pour liquid between flasks; each pour mixes a production ingredient (observers, data, replay) → a recipe per tournament | Amber glass, black · Bodoni Moda | ○ |
 | C20 | **Maison** | Patisserie with physics | Drop components into a box with real physics; the box becomes your package and quote → build-your-broadcast configurator | Pastel, pink · Recoleta-like | ○ |
-| C21 | **Kōen** | One bonsai, four seasons | One tournament across a season: registration, groups, playoffs, final → long-league production | Seasonal palette · Zen Old Mincho | ○ |
+| C21 | **Kōen** | One bonsai, four seasons | One tournament across a season: registration, groups, playoffs, final → long-league production | Seasonal palette · Zen Old Mincho | ✅ v18 |
 | C22 | **Reliquary** | Museum by lantern | Explore a dark museum with a lantern; "photograph" each relic (a real AOBS frame) to light it → the archive of shows | Gallery black, gold · Cormorant | ○ |
 | C23 | **Multiview OS** | (original) | The site is a desktop operating system: windows for each case, draggable, a taskbar of tournaments → a production desk you can use | System grey, one accent · Inter Display | ○ |
 | C24 | **Broadcast Bible** | (original) | A style-guide/brand-book layout: AOBS presents itself as a design system for events (grids, swatches, specs) → identity rigour | White, swatches · Söhne-like | ○ |

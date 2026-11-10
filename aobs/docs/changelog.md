@@ -64,3 +64,9 @@
 
 ## v16: "Low Frequency" (concept C07, Dioramas world port)
 - "Rewind the moment": a playable, scratchable turntable (live WebAudio) as replay; the running order as tracks; gallery house rules; AOBS key visuals as record sleeves and on the 3D record wall; rebranded record label. Violet + amber, Syne + Space Mono.
+
+## v17: "Geode" (concept C10, Dioramas world port)
+- "A raw stream is a stone": hold to crack it open; four facets (HUD, draft, sponsor formats, backup) as specimens; AOBS key visuals as the identity pieces; provenance with a real frame. Velvet black + amethyst, Italiana/Cinzel/Jost.
+
+## v18: "Kōen" (concept C21, Dioramas world port)
+- "One tournament, four seasons": a bonsai through registration, group stage, final and off-season; events on record with identity previews; tools as the craft; a season brief. Washi + maple red, Cormorant Garamond.
