@@ -1,0 +1,10 @@
+import lighthouse from 'lighthouse'; import * as chromeLauncher from 'chrome-launcher';
+const [,, url] = process.argv;
+const chrome = await chromeLauncher.launch({ chromePath: '/opt/pw-browsers/chromium', chromeFlags: ['--headless=new', '--no-sandbox'] });
+const r = await lighthouse(url, { port: chrome.port, output: 'json', logLevel: 'error', onlyCategories: ['performance'] }); const a = r.lhr.audits;
+console.log('LCP element:', String(JSON.stringify(a['largest-contentful-paint-element']?.details?.items?.[0]?.items?.[0]?.node?.snippet || a['largest-contentful-paint-element']?.details)).slice(0, 400));
+console.log('LCP phases:', JSON.stringify(a['largest-contentful-paint-element']?.details?.items?.[1]?.items));
+console.log('bootup:', a['bootup-time'].details.items.slice(0, 6).map((i) => `${i.url.split('/').pop()} ${Math.round(i.scripting)}ms`).join(' | '));
+console.log('mainthread:', a['mainthread-work-breakdown'].details.items.map((i) => `${i.group} ${Math.round(i.duration)}`).join(' | '));
+console.log('long tasks:', (a['long-tasks']?.details?.items || []).slice(0, 8).map((i) => `${String(i.url).split('/').pop()} ${Math.round(i.duration)}`).join(' | '));
+await chrome.kill();

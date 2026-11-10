@@ -1,0 +1,66 @@
+[
+  {
+    "path": "/",
+    "mode": "mobile",
+    "perf": 67,
+    "a11y": 100,
+    "bp": 96,
+    "seo": 100,
+    "LCP": 3.05,
+    "CLS": 0,
+    "TBT": 1791,
+    "FCP": 0.91,
+    "SI": 2.67,
+    "fails": [
+      "errors-in-console"
+    ]
+  },
+  {
+    "path": "/",
+    "mode": "desktop",
+    "perf": 88,
+    "a11y": 100,
+    "bp": 96,
+    "seo": 100,
+    "LCP": 0.93,
+    "CLS": 0,
+    "TBT": 271,
+    "FCP": 0.25,
+    "SI": 1.05,
+    "fails": [
+      "errors-in-console"
+    ]
+  },
+  {
+    "path": "/broadcast",
+    "mode": "mobile",
+    "perf": 100,
+    "a11y": 97,
+    "bp": 100,
+    "seo": 100,
+    "LCP": 0.91,
+    "CLS": 0,
+    "TBT": 47,
+    "FCP": 0.91,
+    "SI": 0.91,
+    "fails": [
+      "definition-list"
+    ]
+  },
+  {
+    "path": "/broadcast",
+    "mode": "desktop",
+    "perf": 100,
+    "a11y": 97,
+    "bp": 100,
+    "seo": 100,
+    "LCP": 0.25,
+    "CLS": 0,
+    "TBT": 0,
+    "FCP": 0.25,
+    "SI": 0.41,
+    "fails": [
+      "definition-list"
+    ]
+  }
+]

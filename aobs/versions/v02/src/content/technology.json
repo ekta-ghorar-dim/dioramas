@@ -1,0 +1,20 @@
+[
+  { "slug": "aobs-cloud", "name": "AOBS Cloud", "code": "CLD", "kind": "Cloud production platform",
+    "keyword": "cloud esports production",
+    "value": "A control room that lives in the cloud, so the show can be produced from anywhere.",
+    "intro": "AOBS Cloud is our platform for **cloud esports production**. Sources come in from wherever they are, the show is switched and encoded in the cloud, and the programme goes out to every platform.",
+    "features": ["Remote production without a venue build or travel days", "Game feeds, casters and graphics contributed over the internet", "Programme encoded once and delivered to Twitch, YouTube and Kick", "Pairs with Backup Streamer for a second, always-ready path"],
+    "specs": [["Max simultaneous outputs", "{{TODO: AOBS Cloud output count}}"], ["Glass-to-glass latency", "{{TODO: AOBS Cloud latency}}"], ["Regions", "{{TODO: AOBS Cloud regions}}"]] },
+  { "slug": "obs-plugins", "name": "OBS Plugins", "code": "PLG", "kind": "Custom plugins built by AOBS",
+    "keyword": "OBS plugins for esports",
+    "value": "The tools OBS does not ship with, written by the crew that needed them on air.",
+    "intro": "We build our own **OBS plugins for esports** broadcasts. When a show needs something OBS cannot do out of the box, we write it, test it on real productions and keep it in our toolkit.",
+    "features": ["Purpose-built for live esports production workflows", "Connects OBS to live game data for automatic graphics", "Developed and maintained in-house by AOBS", "Battle-tested on our own tournament broadcasts"],
+    "specs": [["Plugins in the suite", "{{TODO: list of AOBS OBS plugins and what each does}}"], ["Supported OBS versions", "{{TODO: OBS version support}}"], ["Availability", "{{TODO: licensing or availability of the plugins}}"]] },
+  { "slug": "backup-streamer", "name": "Backup Streamer", "code": "BKP", "kind": "Redundancy & failover",
+    "keyword": "stream backup and failover",
+    "value": "If the primary signal fails, the backup takes over. The stream never goes down.",
+    "intro": "Backup Streamer is our **stream backup and failover** system. A second path runs alongside the primary for the whole show. When the primary drops, the backup is already there, and viewers stay on a live channel instead of an offline screen.",
+    "features": ["A hot backup path running for the entire broadcast", "Automatic takeover when the primary signal fails", "The channel stays live, so viewers and sponsors stay on screen", "Works with AOBS Cloud and on-site productions"],
+    "specs": [["Switchover time", "{{TODO: measured failover switchover time}}"], ["Failure detection", "{{TODO: how Backup Streamer detects a failed primary}}"], ["Recorded failovers on live shows", "{{TODO: number of real failovers handled}}"]] }
+]

@@ -1,0 +1,307 @@
+[
+ {
+  "slug": "pakistan-community-cup",
+  "name": "Pakistan Community Cup",
+  "games": [
+   "MLBB"
+  ],
+  "year": 2025,
+  "format": null,
+  "logo": "pakistan-community-cup-tournament-logo.webp",
+  "w": 556,
+  "h": 166,
+  "mono": "invert",
+  "hoverBg": "light",
+  "featured": true,
+  "country": "Pakistan",
+  "facts": [
+   [
+    "Stage on record",
+    "Grand final, best of 5"
+   ],
+   [
+    "Prize pool",
+    "30,000 diamonds"
+   ],
+   [
+    "Streaming partner",
+    "Potatos Gaming"
+   ]
+  ],
+  "summary": "A full broadcast package in the cup's own green: holding screen, pick/ban draft board and in-game HUD, plus the promo campaign that filled the bracket.",
+  "setup": "AOBS produced the on-air graphics in the tournament's green identity: a stream-starting screen with countdown and up-next match card, a pick/ban draft board for the best-of-5 grand final, and an in-game HUD carrying the team scoreboard (kills, turrets, gold), game timer, minimap and both teams' player rails. The streaming partner was credited on screen.",
+  "campaign": "Promotion ran as a campaign: key visual and trophy render, a \"We are coming, Pakistan\" teaser, registration-opening and registration-now posters, a slots-left countdown and a 30,000-diamond prize-pool reveal.",
+  "tech": [
+   "broadcast",
+   "graphics-data"
+  ]
+ },
+ {
+  "slug": "mini-mayhem",
+  "name": "Mini Mayhem",
+  "games": [
+   "MLBB"
+  ],
+  "year": null,
+  "format": null,
+  "logo": "mini-mayhem-tournament-logo.webp",
+  "w": 640,
+  "h": 555,
+  "mono": "gray",
+  "hoverBg": "dark",
+  "featured": true,
+  "facts": [
+   [
+    "Stages on record",
+    "Top eight (Bo1), semi-finals (Bo1)"
+   ],
+   [
+    "Sponsor",
+    "Shadhin Host"
+   ],
+   [
+    "Sponsor formats",
+    "Squeeze-back, in-game ad, holding-screen panel"
+   ]
+  ],
+  "summary": "A broadcast built to pay for itself: three sponsor formats integrated into the show without taking the game off screen.",
+  "setup": "Mini Mayhem ran on a red AOBS overlay with the event mark at the centre of the scorebug, team names, kills, turrets, gold and timer. Sponsor Shadhin Host was integrated three ways: an L-shaped squeeze-back that keeps gameplay live while the sponsor message and URL run around it, an in-game ad slot, and a sponsor panel on the semi-final stream-starting screen with countdown and match-ups.",
+  "tech": [
+   "broadcast",
+   "graphics-data"
+  ]
+ },
+ {
+  "slug": "bwc-2026",
+  "name": "BWC 2026",
+  "games": [
+   "FC Mobile"
+  ],
+  "year": 2026,
+  "format": "LAN",
+  "logo": "bwc-2026-tournament-logo.webp",
+  "w": 640,
+  "h": 231,
+  "mono": "silhouette",
+  "hoverBg": "light",
+  "featured": true
+ },
+ {
+  "slug": "presidency-esports-mania-s1",
+  "name": "Presidency Esports Mania S1",
+  "games": [
+   "MLBB",
+   "Free Fire",
+   "PUBG Mobile"
+  ],
+  "year": null,
+  "format": null,
+  "logo": "presidency-esports-mania-s1-tournament-logo.webp",
+  "w": 612,
+  "h": 421,
+  "mono": "gray",
+  "hoverBg": "dark",
+  "featured": true
+ },
+ {
+  "slug": "muc-2026",
+  "name": "MUC 2026",
+  "subtitle": "Unity Championship",
+  "games": [
+   "MLBB"
+  ],
+  "year": 2026,
+  "format": null,
+  "logo": "muc-2026-tournament-logo.webp",
+  "w": 386,
+  "h": 241,
+  "mono": "silhouette",
+  "hoverBg": "light"
+ },
+ {
+  "slug": "mlbb-champions-legacy-s2",
+  "name": "MLBB Champions Legacy S2",
+  "games": [
+   "MLBB"
+  ],
+  "year": null,
+  "format": null,
+  "logo": "mlbb-champions-legacy-s2-tournament-logo.webp",
+  "w": 623,
+  "h": 640,
+  "mono": "gray",
+  "hoverBg": "dark"
+ },
+ {
+  "slug": "mlbb-heritage-supremacy",
+  "name": "MLBB Heritage Supremacy",
+  "games": [
+   "MLBB"
+  ],
+  "year": null,
+  "format": null,
+  "logo": "mlbb-heritage-supremacy-tournament-logo.webp",
+  "w": 640,
+  "h": 614,
+  "mono": "gray",
+  "hoverBg": "dark"
+ },
+ {
+  "slug": "aobs-celestial-cup",
+  "name": "AOBS Celestial Cup",
+  "games": [
+   "MLBB"
+  ],
+  "year": null,
+  "format": null,
+  "logo": "aobs-celestial-cup-tournament-logo.webp",
+  "w": 504,
+  "h": 421,
+  "mono": "gray",
+  "hoverBg": "dark"
+ },
+ {
+  "slug": "aobs-halloween-fest",
+  "name": "AOBS Halloween Fest",
+  "games": [
+   "MLBB"
+  ],
+  "year": null,
+  "format": null,
+  "logo": "aobs-halloween-fest-tournament-logo.webp",
+  "w": 458,
+  "h": 405,
+  "mono": "gray",
+  "hoverBg": "dark",
+  "summary": "An AOBS-run seasonal MLBB event with its own themed identity.",
+  "setup": "Themed registration announcement artwork in the Halloween Fest identity."
+ },
+ {
+  "slug": "battle-of-gurkhas",
+  "name": "Battle of Gurkha's",
+  "games": [
+   "MLBB"
+  ],
+  "year": null,
+  "format": null,
+  "logo": "battle-of-gurkhas-tournament-logo.webp",
+  "w": 587,
+  "h": 323,
+  "mono": "gray",
+  "hoverBg": "dark"
+ },
+ {
+  "slug": "code-of-the-knights",
+  "name": "Code of the Knights",
+  "games": [
+   "MLBB"
+  ],
+  "year": null,
+  "format": null,
+  "logo": "code-of-the-knights-tournament-logo.webp",
+  "w": 415,
+  "h": 640,
+  "mono": "gray",
+  "hoverBg": "dark"
+ },
+ {
+  "slug": "division-conqueror-championship",
+  "name": "Division Conqueror Championship",
+  "games": [
+   "MLBB"
+  ],
+  "year": null,
+  "format": null,
+  "logo": "division-conqueror-championship-tournament-logo.webp",
+  "w": 588,
+  "h": 406,
+  "mono": "gray",
+  "hoverBg": "dark"
+ },
+ {
+  "slug": "fight-of-divisions",
+  "name": "Fight of Divisions",
+  "games": [
+   "MLBB"
+  ],
+  "year": null,
+  "format": null,
+  "logo": "fight-of-divisions-tournament-logo.webp",
+  "w": 503,
+  "h": 457,
+  "mono": "invert",
+  "hoverBg": "light"
+ },
+ {
+  "slug": "hillside-conqueror-championship",
+  "name": "Hillside Conqueror Championship",
+  "games": [
+   "MLBB"
+  ],
+  "year": null,
+  "format": null,
+  "logo": "hillside-conqueror-championship-tournament-logo.webp",
+  "w": 384,
+  "h": 415,
+  "mono": "gray",
+  "hoverBg": "dark"
+ },
+ {
+  "slug": "mlbb-campus-risers",
+  "name": "MLBB Campus Risers",
+  "games": [
+   "MLBB"
+  ],
+  "year": null,
+  "format": null,
+  "logo": "mlbb-campus-risers-tournament-logo.webp",
+  "w": 470,
+  "h": 569,
+  "mono": "gray",
+  "hoverBg": "dark"
+ },
+ {
+  "slug": "mlbb-rising-star",
+  "name": "MLBB Rising Star",
+  "games": [
+   "MLBB"
+  ],
+  "year": null,
+  "format": null,
+  "logo": "mlbb-rising-star-tournament-logo.webp",
+  "w": 202,
+  "h": 216,
+  "mono": "gray",
+  "hoverBg": "dark"
+ },
+ {
+  "slug": "mlbb-womens-war",
+  "name": "MLBB Women's War",
+  "games": [
+   "MLBB"
+  ],
+  "year": null,
+  "format": null,
+  "logo": "mlbb-womens-war-tournament-logo.webp",
+  "w": 640,
+  "h": 501,
+  "mono": "silhouette",
+  "hoverBg": "dark",
+  "summary": "Event identity and launch key visual for an MLBB women's tournament.",
+  "setup": "AOBS produced the \"Coming soon\" launch key visual carrying the event mark and the #FightForChampions line."
+ },
+ {
+  "slug": "next-door-showdown",
+  "name": "Next Door Showdown",
+  "games": [
+   "MLBB"
+  ],
+  "year": null,
+  "format": null,
+  "logo": "next-door-showdown-tournament-logo.webp",
+  "w": 640,
+  "h": 453,
+  "mono": "gray",
+  "hoverBg": "dark"
+ }
+]

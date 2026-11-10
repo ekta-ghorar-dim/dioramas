@@ -1,0 +1,5 @@
+[
+  { "slug": "zero-downtime-esports-streams", "title": "How we keep esports streams online with zero downtime", "tag": "Redundancy", "summary": "What actually fails on a live stream, and how a hot backup path keeps the channel up when it does.", "status": "outline" },
+  { "slug": "game-api-graphics-explained", "title": "From game API to scorebug: how live data graphics work", "tag": "Graphics & Data", "summary": "The path a single kill takes from the game server to the scorebug, and why hand-typed graphics cannot keep up.", "status": "outline" },
+  { "slug": "remote-vs-venue-vs-hybrid", "title": "Venue, remote or hybrid: choosing a production model for your tournament", "tag": "Production", "summary": "A plain guide for organizers: what each model needs, what it costs you in logistics, and when each one is right.", "status": "outline" }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "path": "/",
+    "mode": "mobile",
+    "perf": 93,
+    "a11y": 97,
+    "bp": 100,
+    "seo": 100,
+    "LCP": 3.24,
+    "CLS": 0,
+    "TBT": 50,
+    "FCP": 0.91,
+    "SI": 1.01,
+    "fails": [
+      "target-size"
+    ]
+  },
+  {
+    "path": "/",
+    "mode": "desktop",
+    "perf": 100,
+    "a11y": 100,
+    "bp": 100,
+    "seo": 100,
+    "LCP": 0.72,
+    "CLS": 0.04,
+    "TBT": 0,
+    "FCP": 0.25,
+    "SI": 0.44,
+    "fails": []
+  },
+  {
+    "path": "/broadcast",
+    "mode": "mobile",
+    "perf": 100,
+    "a11y": 97,
+    "bp": 100,
+    "seo": 100,
+    "LCP": 0.91,
+    "CLS": 0,
+    "TBT": 66,
+    "FCP": 0.91,
+    "SI": 0.91,
+    "fails": [
+      "target-size"
+    ]
+  },
+  {
+    "path": "/broadcast",
+    "mode": "desktop",
+    "perf": 100,
+    "a11y": 100,
+    "bp": 100,
+    "seo": 100,
+    "LCP": 0.25,
+    "CLS": 0,
+    "TBT": 0,
+    "FCP": 0.25,
+    "SI": 0.32,
+    "fails": []
+  },
+  {
+    "path": "/work/pakistan-community-cup",
+    "mode": "mobile",
+    "perf": 100,
+    "a11y": 97,
+    "bp": 100,
+    "seo": 100,
+    "LCP": 0.91,
+    "CLS": 0,
+    "TBT": 34,
+    "FCP": 0.91,
+    "SI": 0.91,
+    "fails": [
+      "target-size"
+    ]
+  },
+  {
+    "path": "/work/pakistan-community-cup",
+    "mode": "desktop",
+    "perf": 100,
+    "a11y": 100,
+    "bp": 100,
+    "seo": 100,
+    "LCP": 0.26,
+    "CLS": 0,
+    "TBT": 0,
+    "FCP": 0.26,
+    "SI": 0.32,
+    "fails": []
+  }
+]

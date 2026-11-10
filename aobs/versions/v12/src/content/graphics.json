@@ -1,0 +1,18 @@
+{
+  "intro": "**Esports broadcast graphics** only earn their place when they are right, and right now. AOBS builds **game API live data graphics**: scorebugs, drafts and stat panels that read the match directly and update the instant the game does.",
+  "data": [
+    { "id": "scorebug", "title": "Live scorebug", "text": "Teams, score, series and game clock, pulled from the match and always in sync with the action." },
+    { "id": "draft", "title": "Draft & pick/ban", "text": "Hero picks and bans land on screen as they lock in. No operator retyping, no lag behind the client." },
+    { "id": "stats", "title": "Player & team stats", "text": "KDA, gold, objectives and head-to-head panels built from the live feed, ready for the caster's next sentence." },
+    { "id": "feed", "title": "Kill feed & events", "text": "First blood, objectives and team wipes trigger on-air moments automatically." },
+    { "id": "economy", "title": "Economy & map data", "text": "Gold difference, objective timers and map state turned into graphics an audience can read at a glance." }
+  ],
+  "motion": [
+    { "id": "opens", "title": "Show opens & intros", "text": "The first ten seconds that tell viewers this is a real broadcast." },
+    { "id": "stingers", "title": "Stingers & transitions", "text": "Branded wipes in and out of replay, breaks and segments." },
+    { "id": "3d", "title": "3D & VFX", "text": "Trophies, team idents and environments built in 3D, composited for broadcast." },
+    { "id": "ar", "title": "AR elements", "text": "Graphics placed into the camera shot rather than over it." },
+    { "id": "package", "title": "Full graphics package", "text": "Lower thirds, schedules, brackets, standings and winner screens in one consistent system." }
+  ],
+  "galleryNote": "{{TODO: real broadcast graphics, screenshots and clips from the AOBS portfolio}}"
+}

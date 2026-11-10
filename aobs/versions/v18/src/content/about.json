@@ -1,0 +1,24 @@
+{
+ "intro": "AOBS is an **esports broadcast production company**. We produce live tournaments end to end, and we build the technology we run them on.",
+ "story": "{{TODO: company story: founding year, origin and milestones}}",
+ "mission": "Put every tournament on air at a standard its players deserve, and keep it there.",
+ "where": "Our broadcast record spans events in Pakistan (Pakistan Community Cup), Nepal (MLBB tournament teaser; Battle of Gurkha's) and Bangladesh (DIU Winter Fest at Daffodil International University; Bangla-language sponsor integrations). {{TODO: confirm head office location and regions served}}",
+ "different": [
+  {
+   "title": "Broadcast first",
+   "text": "Production is the core of the company, not a side service. Observers, replay, graphics and transmission sit in one crew."
+  },
+  {
+   "title": "Data-driven graphics",
+   "text": "Our graphics read the game. Live API data fills scorebugs, drafts and stats automatically."
+  },
+  {
+   "title": "We build our own tools",
+   "text": "AOBS Cloud, our OBS plugins and Backup Streamer exist because we needed them on real shows."
+  },
+  {
+   "title": "Built not to go dark",
+   "text": "Redundancy is part of the design. A backup path runs for the whole broadcast."
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+  "_readme": "Real AOBS broadcast captures live in /public/media/broadcast/ and are listed here. Add more 16:9 frames (no faces) and they appear on the programme monitor, multiview, gallery and case studies. Source files: /assets/portfolio/ (see docs/content-inventory.md).",
+  "captures": [
+    { "file": "pakistan-community-cup-mlbb-ingame-broadcast.webp", "w": 1280, "h": 720, "tournament": "pakistan-community-cup", "kind": "ingame",
+      "title": "In-game HUD", "alt": "Pakistan Community Cup grand final MLBB broadcast: AOBS in-game overlay with team scoreboard, gold, turrets, timer, minimap and player rails" },
+    { "file": "mini-mayhem-mlbb-ingame-overlay-sponsor-squeezeback.webp", "w": 1600, "h": 900, "tournament": "mini-mayhem", "kind": "ingame",
+      "title": "Sponsor squeeze-back", "alt": "Mini Mayhem MLBB broadcast: gameplay squeezed back into an L-shaped sponsor frame with the AOBS Mini Mayhem scorebug" },
+    { "file": "mini-mayhem-mlbb-ingame-overlay-sponsor-lower-ad.webp", "w": 1600, "h": 900, "tournament": "mini-mayhem", "kind": "ingame",
+      "title": "In-game sponsor ad", "alt": "Mini Mayhem MLBB broadcast: full in-game overlay with a sponsor ad placed in the lower corner" },
+    { "file": "mini-mayhem-semi-final-stream-starting-screen.webp", "w": 1600, "h": 900, "tournament": "mini-mayhem", "kind": "holding",
+      "title": "Stream starting", "alt": "Mini Mayhem semi-final stream-starting screen with countdown, match-ups and sponsor panel" },
+    { "file": "pakistan-community-cup-grand-final-stream-starting.webp", "w": 1280, "h": 720, "tournament": "pakistan-community-cup", "kind": "holding",
+      "title": "Grand final holding screen", "alt": "Pakistan Community Cup grand final stream-starting screen with countdown and upcoming match card" }
+  ],
+  "draft": { "file": "pakistan-community-cup-grand-final-mlbb-draft-ban-phase.webp", "w": 1294, "h": 325, "tournament": "pakistan-community-cup",
+    "alt": "Pakistan Community Cup grand final MLBB draft board in the ban phase: hero picks, bans, best of 5, round 1" },
+  "keyVisuals": [
+    { "file": "pakistan-community-cup-key-visual.webp", "w": 1200, "h": 1200, "tournament": "pakistan-community-cup", "alt": "Pakistan Community Cup key visual with trophy" },
+    { "file": "pakistan-community-cup-prize-pool-poster.webp", "w": 1200, "h": 727, "tournament": "pakistan-community-cup", "alt": "Pakistan Community Cup prize pool announcement poster: 30,000 diamonds" },
+    { "file": "pakistan-community-cup-registration-now.webp", "w": 1200, "h": 1200, "tournament": "pakistan-community-cup", "alt": "Pakistan Community Cup registration open poster" },
+    { "file": "pakistan-community-cup-slots-left-poster.webp", "w": 1200, "h": 1200, "tournament": "pakistan-community-cup", "alt": "Pakistan Community Cup poster announcing 8 registration slots left" },
+    { "file": "mlbb-womens-war-coming-soon-key-visual.webp", "w": 1200, "h": 675, "tournament": "mlbb-womens-war", "alt": "MLBB Women's War coming soon key visual" },
+    { "file": "aobs-halloween-fest-registration-poster.webp", "w": 720, "h": 534, "tournament": "aobs-halloween-fest", "alt": "AOBS Halloween Fest registration announcement poster" },
+    { "file": "pakistan-community-cup-registration-opening-soon.webp", "w": 1200, "h": 1200, "tournament": "pakistan-community-cup", "alt": "Pakistan Community Cup registration opening soon poster" },
+    { "file": "pakistan-community-cup-trophy-render.webp", "w": 745, "h": 745, "tournament": "pakistan-community-cup", "alt": "Pakistan Community Cup trophy render" }
+  ],
+  "videos": [
+    { "id": "mlbb-nepal-tournament-teaser", "title": "MLBB tournament teaser, Nepal", "duration": "PT37S", "seconds": 37,
+      "description": "Motion-graphics teaser for an MLBB tournament in Nepal: cinematic cuts, kinetic type and a coming-soon end card.",
+      "transcript": "On-screen text: Mobile Legends: Bang Bang. Compete. Prepare for the ultimate battle in Nepal. Coming soon." },
+    { "id": "diu-winter-fest-mlbb-teaser", "title": "DIU Winter Fest MLBB teaser", "duration": "PT31S", "seconds": 31,
+      "description": "Teaser for DIU Winter Fest, an MLBB tournament at Daffodil International University, ending on the event mark and a register-now call.",
+      "transcript": "On-screen text: Daffodil International University. The DIU. DIU Winter Fest. Register now." }
+  ]
+}

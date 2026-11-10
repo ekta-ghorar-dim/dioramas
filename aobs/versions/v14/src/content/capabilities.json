@@ -1,0 +1,14 @@
+[
+  { "id": "broadcast", "code": "PGM 01", "title": "Broadcast Production", "href": "/broadcast",
+    "line": "Venue, remote and hybrid live esports production: control room, observers, replay, casters, stage.",
+    "points": ["Venue / remote / hybrid", "Observer + replay", "Caster desk + stage"] },
+  { "id": "data", "code": "GFX 02", "title": "Game API Data Graphics", "href": "/graphics-data",
+    "line": "Scorebugs, drafts and stat panels driven straight from live game data, not typed in by hand.",
+    "points": ["Live scorebugs", "Draft + pick/ban", "Player + team stats"] },
+  { "id": "motion", "code": "VFX 03", "title": "3D, VFX & Motion", "href": "/graphics-data#motion",
+    "line": "Intros, stingers, transitions and 3D packages that give a tournament its own on-air identity.",
+    "points": ["Show opens", "Stingers + wipes", "3D + AR elements"] },
+  { "id": "tech", "code": "SYS 04", "title": "AOBS Technology", "href": "/technology",
+    "line": "A cloud production platform, custom OBS plugins and a backup streamer we build and run ourselves.",
+    "points": ["AOBS Cloud", "OBS Plugins", "Backup Streamer"] }
+]

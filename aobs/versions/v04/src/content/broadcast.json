@@ -1,0 +1,40 @@
+{
+  "intro": "AOBS delivers **esports broadcast production services** end to end: from the observer's first camera cut to the stream your audience watches. One crew, one signal chain, one accountable partner for live esports production.",
+  "modes": [
+    { "id": "venue", "code": "MODE A", "title": "Venue production", "line": "Full production on site.",
+      "text": "For LAN finals and arena shows. Control room, observers, replay, caster desk and stage screens are built at the venue and run from a single production gallery.",
+      "bullets": ["On-site control room and observer room", "Stage, LED and in-venue screen feeds", "Player, caster and crowd cameras into one programme"],
+      "proof": { "label": "On the board", "tournament": "bwc-2026" } },
+    { "id": "remote", "code": "MODE B", "title": "Remote production", "line": "The show runs in the cloud. The crew can be anywhere.",
+      "text": "**Remote esports production** moves the control room off site. Game feeds, casters and graphics meet in AOBS Cloud, our **cloud esports production** platform, and the finished programme goes straight to your channels. No truck, no venue build, no travel days.",
+      "bullets": ["Online tournaments produced without a venue build", "Casters and observers connect from where they are", "Backup Streamer keeps a second path live"],
+      "proof": null },
+    { "id": "hybrid", "code": "MODE C", "title": "Hybrid production", "line": "Cameras at the venue. Control room in the cloud.",
+      "text": "A light footprint on site (cameras, stage, players) with switching, graphics and replay handled remotely. Venue energy on screen, with a smaller build on the ground.",
+      "bullets": ["Reduced on-site crew and equipment", "Venue cameras contributed into AOBS Cloud", "Same graphics and data package as a full venue show"],
+      "proof": null }
+  ],
+  "stations": [
+    { "id": "control", "tag": "PCR", "title": "Control room", "text": "The gallery. Director and technical director cut the show here: every source on the multiviewer, one programme bus, one preview bus.", "x": 50, "y": 20 },
+    { "id": "observer", "tag": "OBS", "title": "Observer room", "text": "Observers drive the in-game cameras. They read the game ahead of the action so the right fight is already on screen when it starts.", "x": 20, "y": 34 },
+    { "id": "replay", "tag": "RPL", "title": "Replay", "text": "Key plays are clipped as they happen and rolled back in at the next break, with a stinger in and out.", "x": 80, "y": 34 },
+    { "id": "caster", "tag": "CST", "title": "Caster desk", "text": "Commentary position with programme return and talkback to the gallery, so casters can call what viewers are seeing.", "x": 24, "y": 70 },
+    { "id": "stage", "tag": "LED", "title": "Stage & LED screens", "text": "Stage and in-venue screens get their own feeds: programme, team idents, draft boards and winner moments.", "x": 50, "y": 62 },
+    { "id": "cams", "tag": "CAM", "title": "Cameras", "text": "Player cams, wide shots and crowd shots give the broadcast its human scale: reactions, walk-ons, trophy lifts.", "x": 76, "y": 70 }
+  ],
+  "cameraNote": "{{TODO: confirmed camera inventory (player cams, PTZ, handheld, crowd, jib/crane) from the AOBS portfolio}}",
+  "faq": [
+    { "q": "How does remote esports production work?",
+      "a": "The control room moves to the cloud. Game feeds from observers, caster audio and video, and live game data are contributed over the internet into AOBS Cloud. The show is switched, graphics are keyed and the programme is encoded there, then sent to Twitch, YouTube or Kick. Nobody has to be in the same building, and no venue build is required for an online event." },
+    { "q": "What happens if the stream drops mid-match?",
+      "a": "That is what Backup Streamer is for. A second path runs alongside the primary. If the primary signal fails, the backup takes over so the channel stays live instead of going offline. Exact switchover time: {{TODO: measured failover switchover time}}." },
+    { "q": "What does a tournament organizer need to provide?",
+      "a": "At minimum: the match schedule and format, observer or spectator access to the game lobbies, your brand assets (logos, sponsor marks, team names and logos), and the channels you want to stream to. For venue shows we also need venue access times, power and internet details. Full checklist: {{TODO: organizer requirements checklist}}." },
+    { "q": "How far in advance should we book?",
+      "a": "The earlier the better, especially if you need a custom graphics package. Typical lead times: {{TODO: lead time for online events}} for an online event and {{TODO: lead time for LAN events}} for a venue production." },
+    { "q": "Which games do you cover?",
+      "a": "Our broadcast record so far includes Mobile Legends: Bang Bang, Free Fire, PUBG Mobile and EA Sports FC Mobile. If your title exposes spectator access or a data API, talk to us." },
+    { "q": "Can you stream to more than one platform?",
+      "a": "Yes. One programme output can be delivered to Twitch, YouTube and Kick at the same time." }
+  ]
+}
